@@ -46,4 +46,12 @@ main >section button {
     
 }
 
+#detalhes-container > li {
+    align-items: baseline;
+    display: flex;
+}    
 
+#detalhes-container > li p {
+    color: white;
+
+}
